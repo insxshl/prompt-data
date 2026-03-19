@@ -3,50 +3,44 @@
     "title": "Spotify Cute Music Card",
     "content": "Create a Spotify-themed music player card with a soft pastel [COLOR NAME] background. At the top, add a cute cartoon illustration of the person from the reference image, with soft shading and expressive features. Surround it with flowers, stars, leaves, and a small pet. Place inside a rounded frame. Below, add a Spotify player UI with song title '[SONG NAME]' by '[SINGER NAME]', a small Spotify logo, heart icon, and music controls. Style should be cozy, aesthetic, soft pastel, and heartwarming. High detail, 4k, no distortion.",
     "category": "Photography",
-    "subcategory": "For Girls"
-  },
-  {
-    "title": "Spotify Cute Music Card",
-    "content": "Create a Spotify-themed music player card with a soft pastel [COLOR NAME] background. At the top, add a cute cartoon illustration of the person from the reference image, with soft shading and expressive features. Surround it with flowers, stars, leaves, and a small pet. Place inside a rounded frame. Below, add a Spotify player UI with song title '[SONG NAME]' by '[SINGER NAME]', a small Spotify logo, heart icon, and music controls. Style should be cozy, aesthetic, soft pastel, and heartwarming. High detail, 4k, no distortion.",
-    "category": "Photography",
     "subcategory": "girls"
   },
   {
     "title": "Cute Cartoon Wisteria Portrait",
     "content": "Transform the person from the reference image into a cute cartoon character with long wavy black hair, big brown eyes, and a soft smile. Keep same skin tone with rosy cheeks. Place under a blooming wisteria arch with purple flowers and sunlight. Use soft outlines, pastel colors, dreamy lighting. Maintain facial identity. High detail, clean animation style.",
     "category": "Photography",
-    "subcategory": "Girls"
+    "subcategory": "girls"
   },
   {
     "title": "Aesthetic Mirror Selfie Doodle",
     "content": "Create a mirror selfie edit with dreamy doodle art. Add stars, clouds, moon, sparkles, vintage frames, music icons, and polaroid stickers. Include handwritten text: 'look at me', 'you are so handsome', 'smile :)'. Style should be crayon-like, soft glow, warm pastel, minimal aesthetic, Instagram story vibe.",
     "category": "Photography",
-    "subcategory": "Girls"
+    "subcategory": "girls"
   },
   {
     "title": "Ivy Cottage Golden Hour Shot",
     "content": "Ultra realistic 9:16 close-up of a person wearing glasses, laughing and leaning on an ivy-covered stone wall at golden hour. One hand brushing a vine, wearing earth-tone sweater over white t-shirt. Background with blooming vines in orange, magenta, lavender. Cinematic lighting, shallow depth, soft blur. 4k, hyper realistic.",
     "category": "Photography",
-    "subcategory": "Girls"
+    "subcategory": "girls"
   },
   {
     "title": "Indian Cherry Blossom Portrait",
     "content": "A beautiful Indian woman near pink cherry blossoms. Keep exact same face from reference. Long wavy ombre brown hair, black embroidered blouse, cream lehenga, choker jewelry, red lipstick, black bindi. Smiling and touching flowers. Full body, cinematic lighting, soft bokeh, professional fashion photography, vibrant spring look.",
     "category": "Photography",
-    "subcategory": "Girls"
+    "subcategory": "girls"
   },
   {
     "title": "Luxury Coastal Vacation Look",
     "content": "Same woman (face unchanged) posing near a coastal landscape, looking back over shoulder. Wearing light blue airy top, black quilted handbag, sunglasses. Hair flowing in wind. Background with blue sea, sky, greenery, distant hills. Bright sunlight, luxury vacation vibe, fashion photography, high resolution.",
     "category": "Photography",
-    "subcategory": "Girls"
+    "subcategory": "girls"
   },
   {
     "title": "Modern Cafe Lifestyle Shot",
     "content": "Ultra realistic full body shot of a young woman in a modern cafe. Same face as reference. Wearing olive green shirt, white linen pants, white sneakers, sunglasses, watch. Sitting casually holding a drink. Background with wooden shelves and coffee items. Natural lighting, clean aesthetic, lifestyle photography.",
     "category": "Photography",
-    "subcategory": "Girls"
-  }
+    "subcategory": "girls"
+  },
   {
     "title": "Upload Questions – Get Answers",
     "content": "Act as a book maker for school students. Give short answers (6–7 lines) first, then detailed long answers. My questions are in the uploaded image. If no image is uploaded say: 'plz upload your short and long questions to give your answers'. If needed ask my class, state board, and subject before answering.",
