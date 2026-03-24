@@ -1,1 +1,26 @@
-phy
+[
+  {
+    "title": "Girl Pose Ideas",
+    "content": "Give aesthetic pose ideas for girls for Instagram photos.",
+    "category": "photography",
+    "subcategory": "girls"
+  },
+  {
+    "title": "Boy Style Shots",
+    "content": "Suggest cool and stylish poses for boys photoshoot.",
+    "category": "photography",
+    "subcategory": "boys"
+  },
+  {
+    "title": "Creative Clicks",
+    "content": "Give creative photography ideas using lights and shadows.",
+    "category": "photography",
+    "subcategory": "creative"
+  },
+  {
+    "title": "Aesthetic Photos",
+    "content": "How to create aesthetic vibe photos with simple setup.",
+    "category": "photography",
+    "subcategory": "aesthetics"
+  }
+]
