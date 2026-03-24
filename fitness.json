@@ -1,1 +1,26 @@
-fit
+[
+  {
+    "title": "Workout Plan",
+    "content": "Create a 30-minute full body workout for beginners.",
+    "category": "fitness",
+    "subcategory": "workout"
+  },
+  {
+    "title": "Healthy Diet",
+    "content": "Suggest a simple daily diet plan for fitness.",
+    "category": "fitness",
+    "subcategory": "nutrition"
+  },
+  {
+    "title": "Stay Motivated",
+    "content": "Give tips to stay consistent in fitness journey.",
+    "category": "fitness",
+    "subcategory": "motivation"
+  },
+  {
+    "title": "Health Tips",
+    "content": "Provide daily health tips for a better lifestyle.",
+    "category": "fitness",
+    "subcategory": "health-tips"
+  }
+]
