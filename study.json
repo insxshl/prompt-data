@@ -1,1 +1,32 @@
-stug
+[
+  {
+    "title": "Focus Study Plan",
+    "content": "Create a 2-hour distraction-free study plan with short breaks.",
+    "category": "study",
+    "subcategory": "school"
+  },
+  {
+    "title": "Exam Strategy",
+    "content": "Give a smart revision plan for exams in 7 days.",
+    "category": "study",
+    "subcategory": "intermediate"
+  },
+  {
+    "title": "Skill Learning",
+    "content": "Suggest a roadmap to learn a new skill in 30 days.",
+    "category": "study",
+    "subcategory": "vocational"
+  },
+  {
+    "title": "Polytechnic Prep",
+    "content": "Give preparation tips for polytechnic students.",
+    "category": "study",
+    "subcategory": "polytechnic"
+  },
+  {
+    "title": "Degree Success",
+    "content": "How to manage time and score well in college.",
+    "category": "study",
+    "subcategory": "degree"
+  }
+]
