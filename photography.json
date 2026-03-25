@@ -1,26 +1,272 @@
 [
   {
-    "title": "Girl Pose Ideas",
-    "content": "Give aesthetic pose ideas for girls for Instagram photos.",
-    "category": "photography",
-    "subcategory": "girls"
-  },
-  {
-    "title": "Boy Style Shots",
-    "content": "Suggest cool and stylish poses for boys photoshoot.",
+    "title": "Cinematic B&W Elegance",
+    "content": "Transform the uploaded person into a sophisticated young man in a perfectly tailored black suit and tie, sitting elegantly on a sleek white chair. Side profile view, curly tousled hair, subtle stubble, moody dramatic studio lighting with high contrast shadows, fashion editorial style, black and white cinematic portrait, sharp focus on facial features and textures of the suit.",
     "category": "photography",
     "subcategory": "boys"
   },
   {
-    "title": "Creative Clicks",
-    "content": "Give creative photography ideas using lights and shadows.",
+    "title": "Golden Night Vibes",
+    "content": "Transform the uploaded person into a young man in an open-collar white striped shirt, with natural curly hair. Warm golden ambient night lighting illuminates his face softly, bokeh city lights in the outdoor background, candid natural expression with relaxed shoulders, cinematic mood, detailed skin texture and realistic reflections, lifestyle portrait photography style.",
+    "category": "photography",
+    "subcategory": "boys"
+  },
+  {
+    "title": "Urban Cool: Street Style Editorial",
+    "content": "Transform the uploaded person into a stylish young South Asian man with curly black hair and a thin mustache, wearing black sunglasses, an oversized black hoodie, dark baggy jeans, and light blue New Balance 9060 sneakers. He is leaning casually against the front hood of a blacked-out Land Rover Defender SUV. Shot from a slightly elevated angle. The setting is a stone-paved driveway with green grass and tropical palm leaves framing the sides. Natural daylight, clean aesthetic, lifestyle/editorial style photography, sharp focus, cinematic lighting.",
+    "category": "photography",
+    "subcategory": "boys"
+  },
+  {
+    "title": "Festive Crimson Portrait",
+    "content": "Transform the uploaded person into a young man wearing a crisp white linen kurta shirt, relaxed pose with one hand raised behind head. Standing against a vibrant crimson Indian textile mandala background, soft warm lighting, subtle shadows enhancing fabric texture, festive editorial vibe, cinematic composition with focus on facial expression and intricate background patterns.",
+    "category": "photography",
+    "subcategory": "boys"
+  },
+  {
+    "title": "Golden Lakeside Serenity",
+    "content": "Transform the uploaded person into a young man in a light blue striped shirt, holding a phone casually. Standing at a serene lake during golden hour sunset, soft sunlight reflecting on water, lush green hills in the distance. Candid lifestyle photography style, warm soft bokeh, detailed hair texture and subtle skin highlights, natural relaxed expression, realistic outdoor ambiance.",
+    "category": "photography",
+    "subcategory": "boys"
+  },
+  {
+    "title": "Pink Shirt Editorial Collage",
+    "content": "Transform the uploaded person into a young man wearing a soft pink shirt, curly dark hair perfectly styled. Modern architectural background with green plants, natural daylight casting soft shadows, three-panel artistic editorial collage layout. Crisp details on clothing and facial features, subtle dynamic poses in each panel, contemporary editorial photography style.",
+    "category": "photography",
+    "subcategory": "boys"
+  },
+  {
+    "title": "Music Lover Split Aesthetic",
+    "content": "Transform the uploaded person into a young man in a split composition: top panel — wearing a brown open-collar shirt and stylish sunglasses, overlaid with Spotify UI graphics; bottom panel — wearing a black shirt taking a mirror selfie with a music player UI overlay. Urban aesthetic, detailed facial expressions, soft cinematic lighting, artistic digital collage style highlighting music enthusiast theme.",
+    "category": "photography",
+    "subcategory": "boys"
+  },
+  {
+    "title": "Vintage Mirror Luxe",
+    "content": "Transform the uploaded person into a young man in a charcoal blazer, taking a mirror selfie in an ornate gold-framed vintage bathroom mirror. Warm wall sconce lighting reflecting softly on skin and mirror frame, luxurious classic interior, high-resolution textures on fabric and gold details, subtle shadow play, cinematic and sophisticated lifestyle portrait style.",
+    "category": "photography",
+    "subcategory": "boys"
+  },
+  {
+    "title": "Urban Street Rebel",
+    "content": "Transform the uploaded person into a young man wearing a green plaid flannel jacket over a white graphic tee, sunglasses on, leaning casually against a grungy wall plastered with band stickers and posters. Urban street style with rock aesthetic, gritty textures, natural daylight highlighting hair and clothing folds, cinematic shallow depth of field, candid confident pose, highly detailed fashion editorial vibe.",
+    "category": "photography",
+    "subcategory": "boys"
+  },
+  {
+    "title": "Spotify Cute Music Card",
+    "content": "Create a Spotify-themed music player card with a soft pastel [COLOR NAME] background. At the top, add a cute cartoon illustration of the uploaded person, with soft shading and expressive features. Surround it with flowers, stars, leaves, and a small pet. Place inside a rounded frame. Below, add a Spotify player UI with song title '[SONG NAME]' by '[SINGER NAME]', a small Spotify logo, heart icon, and music controls. Style should be cozy, aesthetic, soft pastel, and heartwarming. High detail, 4k, no distortion.",
+    "category": "photography",
+    "subcategory": "girls"
+  },
+  {
+    "title": "Cute Cartoon Wisteria Portrait",
+    "content": "Transform the uploaded person into a cute cartoon character with long wavy black hair, big brown eyes, and a soft smile. Keep same skin tone with rosy cheeks. Place under a blooming wisteria arch with purple flowers and sunlight. Use soft outlines, pastel colors, dreamy lighting. Maintain facial identity. High detail, clean animation style.",
+    "category": "photography",
+    "subcategory": "girls"
+  },
+  {
+    "title": "Aesthetic Mirror Selfie Doodle",
+    "content": "Create a mirror selfie edit with dreamy doodle art featuring the uploaded person. Add stars, clouds, moon, sparkles, vintage frames, music icons, and polaroid stickers. Include handwritten text: 'look at me', 'you are so handsome', 'smile :)'. Style should be crayon-like, soft glow, warm pastel, minimal aesthetic, Instagram story vibe.",
+    "category": "photography",
+    "subcategory": "girls"
+  },
+  {
+    "title": "Ivy Cottage Golden Hour Shot",
+    "content": "Ultra realistic 9:16 close-up of the uploaded person wearing glasses, laughing and leaning on an ivy-covered stone wall at golden hour. One hand brushing a vine, wearing earth-tone sweater over white t-shirt. Background with blooming vines in orange, magenta, lavender. Cinematic lighting, shallow depth, soft blur. 4k, hyper realistic.",
+    "category": "photography",
+    "subcategory": "girls"
+  },
+  {
+    "title": "Indian Cherry Blossom Portrait",
+    "content": "A beautiful Indian woman (face from uploaded person) near pink cherry blossoms. Long wavy ombre brown hair, black embroidered blouse, cream lehenga, choker jewelry, red lipstick, black bindi. Smiling and touching flowers. Full body, cinematic lighting, soft bokeh, professional fashion photography, vibrant spring look.",
+    "category": "photography",
+    "subcategory": "girls"
+  },
+  {
+    "title": "Luxury Coastal Vacation Look",
+    "content": "The uploaded person posing near a coastal landscape, looking back over shoulder. Wearing light blue airy top, black quilted handbag, sunglasses. Hair flowing in wind. Background with blue sea, sky, greenery, distant hills. Bright sunlight, luxury vacation vibe, fashion photography, high resolution.",
+    "category": "photography",
+    "subcategory": "girls"
+  },
+  {
+    "title": "Modern Cafe Lifestyle Shot",
+    "content": "Ultra realistic full body shot of the uploaded person in a modern cafe. Wearing olive green shirt, white linen pants, white sneakers, sunglasses, watch. Sitting casually holding a drink. Background with wooden shelves and coffee items. Natural lighting, clean aesthetic, lifestyle photography.",
+    "category": "photography",
+    "subcategory": "girls"
+  },
+  {
+    "title": "Bollywood Digital Dream",
+    "content": "Transform the uploaded person into an Indian woman lying gracefully, wearing a deep red traditional lehenga with intricate gold embroidery, elegant bindi on the forehead. Painterly digital art style, rich saturated red mandala backdrop, dramatic lighting highlighting folds of fabric and jewelry, Bollywood aesthetic, expressive eyes, detailed textures in clothing, ethereal cinematic composition.",
+    "category": "photography",
+    "subcategory": "girls"
+  },
+  {
+    "title": "Shinchan Chatting Scene",
+    "content": "Cartoon-style illustration of the uploaded person sitting on a cozy sofa inside Shinchan's colorful living room, laughing and chatting with Shinchan. Toys and comic posters decorate the walls, a small table with snacks nearby, playful exaggerated expressions, warm sunlight, whimsical anime/cartoon style, uploaded person fully represented.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Doraemon Gadget Fun",
+    "content": "Cartoon-style illustration of the uploaded person and Doraemon in a lively room, using Doraemon's gadgets like flying robots and magical tools. Exaggerated playful expressions, bright colorful whimsical background, anime/cartoon style, uploaded person fully integrated.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Motu Patlu Samosa Party",
+    "content": "Cartoon-style illustration of the uploaded person sitting at a small table with Motu and Patlu, happily eating samosas. Cheerful animated room with bright colors, exaggerated expressions, whimsical anime/cartoon style, uploaded person clearly depicted in cartoon form.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Adventure with Pikachu",
+    "content": "Cartoon-style illustration of the uploaded person exploring a magical forest with Pikachu hopping beside them, glowing leaves and floating sparkles around. Exaggerated cartoon expressions, vibrant whimsical colors, anime/cartoon style, uploaded person fully represented.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "SpongeBob Underwater Fun",
+    "content": "Cartoon-style illustration of the uploaded person sitting at a table under the sea with SpongeBob and Patrick, laughing and eating jelly sandwiches. Bright colorful coral and bubbles floating, playful exaggerated expressions, whimsical anime/cartoon style, uploaded person fully integrated.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Tom & Jerry Chaos",
+    "content": "Cartoon-style illustration of the uploaded person in a playful chase scene with Tom and Jerry, cheese flying, furniture tipping over, exaggerated chaos, vibrant colors, whimsical anime/cartoon style, uploaded person fully represented in cartoon form.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Flying with Minions",
+    "content": "Cartoon-style illustration of the uploaded person flying in a hot air balloon with Minions, tossing bananas, floating islands and bright clouds around, exaggerated cartoon expressions, whimsical anime/cartoon style, uploaded person clearly depicted.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Ghibli-Style Forest Picnic",
+    "content": "Cartoon-style illustration of the uploaded person having a picnic with Ghibli-inspired magical forest creatures, glowing mushrooms and whimsical plants, soft warm light, playful expressions, whimsical anime/cartoon style, uploaded person fully integrated.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Scooby-Doo Haunted Mansion",
+    "content": "Cartoon-style illustration of the uploaded person investigating a haunted mansion with Scooby-Doo and Shaggy, exaggerated playful reactions, cobwebs and spooky shadows, bright whimsical cartoon style, uploaded person clearly depicted in cartoon form.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Totoro Forest Adventure",
+    "content": "Cartoon-style illustration of the uploaded person having a picnic with Totoro and Catbus, giant magical trees and whimsical forest background, playful expressions, soft vibrant colors, whimsical anime/cartoon style, uploaded person fully integrated.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Ninja Hattori Rooftop Adventure",
+    "content": "Cartoon-style illustration of the uploaded person sitting on a rooftop with Ninja Hattori, looking over a colorful town, wind blowing scarves and hair, playful exaggerated expressions, bright whimsical colors, anime/cartoon style, uploaded person fully represented.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Chhota Bheem Feast",
+    "content": "Cartoon-style illustration of the uploaded person sitting under a tree sharing laddoos with Chhota Bheem and friends, colorful village background, playful expressions, bright whimsical anime/cartoon style, uploaded person fully integrated.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Adventure Time Candy Kingdom",
+    "content": "Cartoon-style illustration of the uploaded person exploring Adventure Time's Candy Kingdom with Finn and Jake, quirky candy hills and trees, playful exaggerated expressions, bright whimsical colors, anime/cartoon style, uploaded person fully represented.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Naruto Ninja Training",
+    "content": "Cartoon-style illustration of the uploaded person training with Naruto in a lively ninja village, leaves blowing, kunai flying, dynamic poses, exaggerated cartoon expressions, bright whimsical colors, anime/cartoon style, uploaded person fully integrated.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "TMNT Pizza Party",
+    "content": "Cartoon-style illustration of the uploaded person enjoying pizza with Teenage Mutant Ninja Turtles, bright colorful kitchen background, playful exaggerated expressions, whimsical anime/cartoon style, uploaded person fully depicted.",
+    "category": "photography",
+    "subcategory": "aesthetic"
+  },
+  {
+    "title": "Rajya Sabha Speaker",
+    "content": "A hyper-realistic news style photograph of a man wearing a crisp white formal shirt and a well-fitted grey Nehru jacket, standing inside the Rajya Sabha of the Indian Parliament. He is speaking confidently as if addressing the house, with one hand raised for emphasis. The background shows the iconic polished wooden carved panels and seating arrangement of the Rajya Sabha chamber. ANI news broadcast style framing, professional news camera angle, natural skin texture, realistic lighting, shallow depth of field, 85mm lens look, ultra detailed, photorealistic, 4K quality. If no image of the person is uploaded, say: 'Thanks for using Prompt Buddy app 💙😊. Please upload your image.'",
     "category": "photography",
     "subcategory": "creative"
   },
   {
-    "title": "Aesthetic Photos",
-    "content": "How to create aesthetic vibe photos with simple setup.",
+    "title": "Political Rally Speech",
+    "content": "A realistic political rally scene. A man wearing a clean white kurta and a rich golden shawl standing on a political rally stage. He is holding a microphone in one hand and pointing his finger forward while giving a powerful speech. Confident facial expression, natural skin texture, realistic lighting. Behind him a large political banner with [ask color] background. Stage decorated with simple political rally elements, flags and lights. A large crowd standing behind and around the stage, realistic Indian crowd, some people holding flags, some recording with phones. Depth of field, DSLR photo realism, sharp focus, natural shadows, 8k realistic photography, cinematic color grading. Ultra realistic, photojournalism style, natural colors, detailed fabric texture, realistic crowd expressions. 85mm lens, f/2.8, professional rally photography. If background color is not provided and image is not uploaded say: 'Thanks for using Prompt Buddy 😊💙. Plz say background color and upload your image.'",
     "category": "photography",
-    "subcategory": "aesthetics"
+    "subcategory": "creative"
+  },
+  {
+    "title": "Floating Lantern Festival",
+    "content": "The uploaded person in a flowing pastel dress, standing on a wooden dock at night, releasing glowing paper lanterns into the sky, reflections shimmering on calm water, distant mountains faintly visible, soft glowing ambient lighting, magical fantasy atmosphere, cinematic wide shot. If image is not uploaded say: 'Thanks for using Prompt Buddy app 💙😊, plz upload your image.'",
+    "category": "photography",
+    "subcategory": "creative"
+  },
+  {
+    "title": "Rooftop Stargazer",
+    "content": "The uploaded person lying on a rooftop blanket under a deep starry sky, telescope nearby, hair slightly tousled by wind, soft moonlight illuminating their face, subtle rim lighting, long exposure stars creating streaks, cozy scarf and sweater, cinematic night photography, serene and contemplative mood. If image is not uploaded say: 'Thanks for using Prompt Buddy app 💙😊, plz upload your image.'",
+    "category": "photography",
+    "subcategory": "creative"
+  },
+  {
+    "title": "Urban Alley Artist",
+    "content": "The uploaded person painting graffiti on a dark, narrow alley wall, wearing ripped jeans and a leather jacket, neon-colored spray paint glowing under overhead light, side-lit face highlighting focus, slight mist in air, cinematic editorial style, urban moody vibe, wide-angle lens capturing alley depth. If image is not uploaded say: 'Thanks for using Prompt Buddy app 💙😊, plz upload your image.'",
+    "category": "photography",
+    "subcategory": "creative"
+  },
+  {
+    "title": "Forest Reflection",
+    "content": "The uploaded person sitting on a rock by a crystal-clear lake surrounded by tall pine trees, mountains in the distance, soft morning mist, wearing earth-toned casual clothes, reflection perfectly mirrored on water, cinematic wide-angle, pastel and green tones, tranquil, ethereal mood. If image is not uploaded say: 'Thanks for using Prompt Buddy app 💙😊, plz upload your image.'",
+    "category": "photography",
+    "subcategory": "creative"
+  },
+  {
+    "title": "Music Studio Vibes",
+    "content": "The uploaded person in a dimly lit music studio, surrounded by vinyl records, guitar and synthesizer nearby, neon blue and pink lights reflecting on instruments, wearing oversized hoodie and headphones, moody cinematic lighting, side light creating dramatic shadows on face, creative editorial style. If image is not uploaded say: 'Thanks for using Prompt Buddy app 💙😊, plz upload your image.'",
+    "category": "photography",
+    "subcategory": "creative"
+  },
+  {
+    "title": "Hot Air Balloon Adventure",
+    "content": "The uploaded person standing in a hot air balloon basket, holding the edge, wind blowing hair gently, wearing light jacket and scarf, panoramic view of mountains and valleys at sunrise, soft golden light illuminating face, cinematic wide-angle lens, aerial adventure vibe, clouds partially covering landscape below. If image is not uploaded say: 'Thanks for using Prompt Buddy app 💙😊, plz upload your image.'",
+    "category": "photography",
+    "subcategory": "creative"
+  },
+  {
+    "title": "Desert Mirage",
+    "content": "The uploaded person walking barefoot across rolling golden sand dunes, long flowing robe catching wind, distant shimmering oasis with glowing light, sunset casting long warm shadows, cinematic wide shot, soft lens haze for dreamy effect, editorial fantasy desert mood. If image is not uploaded say: 'Thanks for using Prompt Buddy app 💙😊, plz upload your image.'",
+    "category": "photography",
+    "subcategory": "creative"
+  },
+  {
+    "title": "Misty Waterfall",
+    "content": "The uploaded person standing on a mossy rock in front of a large waterfall, rainbow mist catching sunlight, athletic outfit or flowing cape for dynamic movement, hair slightly wet from spray, cinematic high-resolution capture, wide-angle perspective, vibrant greens and blues, adventurous editorial feel. If image is not uploaded say: 'Thanks for using Prompt Buddy app 💙😊, plz upload your image.'",
+    "category": "photography",
+    "subcategory": "creative"
+  },
+  {
+    "title": "Library Time Travel",
+    "content": "The uploaded person holding an ancient glowing book inside a grand library with tall wooden shelves, dust particles visible in beams of sunlight streaming through large windows, wearing long coat or fantasy-inspired outfit, cinematic warm lighting, slight magical glow around the book, detailed editorial fantasy scene. If image is not uploaded say: 'Thanks for using Prompt Buddy app 💙😊, plz upload your image.'",
+    "category": "photography",
+    "subcategory": "creative"
+  },
+  {
+    "title": "Carnival Lights",
+    "content": "The uploaded person riding a Ferris wheel at night, colorful carnival lights blurred in background, wind in hair, casual playful outfit, motion blur emphasizing movement, cinematic editorial style, neon reflections on face, joyful and vibrant composition, medium shot capturing upper body. If image is not uploaded say: 'Thanks for using Prompt Buddy app 💙😊, plz upload your image.'",
+    "category": "photography",
+    "subcategory": "creative"
+  },
+  {
+    "title": "Abstract Paint Studio",
+    "content": "The uploaded person in a bright sunlit art studio, covered in splashes of vibrant paint, large windows with sunlight streaming in, wearing casual clothes, dynamic pose with arms outstretched, cinematic close-up and mid-shot combination, expressive and creative mood, high saturation for colorful editorial impact. If image is not uploaded say: 'Thanks for using Prompt Buddy app 💙😊, plz upload your image.'",
+    "category": "photography",
+    "subcategory": "creative"
   }
 ]
