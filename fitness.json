@@ -1,25 +1,241 @@
 [
   {
-    "title": "Workout Plan",
-    "content": "Create a 30-minute full body workout for beginners.",
+    "title": "Breaking the Quit Cycle",
+    "content": "I keep starting workouts but quit after a few weeks. I want something I can actually stick to. Can you design a plan for me?",
     "category": "fitness",
     "subcategory": "workout"
   },
   {
-    "title": "Healthy Diet",
-    "content": "Suggest a simple daily diet plan for fitness.",
+    "title": "Stuck Despite Exercising",
+    "content": "I've been exercising regularly but not seeing results. What adjustments should I make to finally get progress?",
+    "category": "fitness",
+    "subcategory": "workout"
+  },
+  {
+    "title": "Strength Training with Pain",
+    "content": "I want to build strength but have pain issues that worry me. Which exercises are safe and which should I avoid?",
+    "category": "fitness",
+    "subcategory": "workout"
+  },
+  {
+    "title": "Short Sessions, Big Results",
+    "content": "I have very limited time and space for workouts. How can I make short sessions effective?",
+    "category": "fitness",
+    "subcategory": "workout"
+  },
+  {
+    "title": "Why My Body Isn't Responding",
+    "content": "I feel like my body isn't responding to my current routine. What could I be missing biologically or in lifestyle?",
+    "category": "fitness",
+    "subcategory": "workout"
+  },
+  {
+    "title": "Phased Plan for a Specific Goal",
+    "content": "I want to reach a specific fitness goal (like push-ups or pull-ups) but progress is slow. Can you make a phased plan that works?",
+    "category": "fitness",
+    "subcategory": "workout"
+  },
+  {
+    "title": "Cardio Without the Boredom",
+    "content": "I dislike traditional cardio but want heart health. What are fun, effective alternatives that actually stick?",
+    "category": "fitness",
+    "subcategory": "workout"
+  },
+  {
+    "title": "From Random Workouts to Real Muscle",
+    "content": "I follow random workouts online but don't see muscle growth. What structured approach would work?",
+    "category": "fitness",
+    "subcategory": "workout"
+  },
+  {
+    "title": "Fitness Without a Gym",
+    "content": "I travel or have unpredictable schedules. How can I maintain fitness without equipment or a gym?",
+    "category": "fitness",
+    "subcategory": "workout"
+  },
+  {
+    "title": "Building Muscle with Restrictions",
+    "content": "I want to build muscle but have restrictions (diet, health, or access). How do I do it realistically without gimmicks?",
+    "category": "fitness",
+    "subcategory": "workout"
+  },
+  {
+    "title": "Healthy Eating That Doesn't Feel Like a Diet",
+    "content": "I want to eat healthy but still enjoy food. How can I create a meal plan that isn't boring or restrictive?",
     "category": "fitness",
     "subcategory": "nutrition"
   },
   {
-    "title": "Stay Motivated",
-    "content": "Give tips to stay consistent in fitness journey.",
+    "title": "Hidden Saboteurs in a Healthy Diet",
+    "content": "I eat what seems healthy but weight/stats aren't improving. What hidden factors could be sabotaging me?",
+    "category": "fitness",
+    "subcategory": "nutrition"
+  },
+  {
+    "title": "Taming Cravings Without Deprivation",
+    "content": "I struggle with cravings for sweets or snacks. How can I manage them without extreme restrictions?",
+    "category": "fitness",
+    "subcategory": "nutrition"
+  },
+  {
+    "title": "Nutritious Meals on a Budget and Schedule",
+    "content": "I have limited time or budget to cook but want nutritious meals. How can I make it practical and effective?",
+    "category": "fitness",
+    "subcategory": "nutrition"
+  },
+  {
+    "title": "Fixing Energy Slumps Through Food",
+    "content": "I get energy slumps in the day even though I eat. How can I fix it through diet or timing?",
+    "category": "fitness",
+    "subcategory": "nutrition"
+  },
+  {
+    "title": "Sustainable Intermittent Fasting",
+    "content": "I follow intermittent fasting but sometimes feel dizzy or fatigued. How can I make it sustainable?",
+    "category": "fitness",
+    "subcategory": "nutrition"
+  },
+  {
+    "title": "Decoding Macros for Your Activity Level",
+    "content": "I'm confused about carbs, protein, or macros. What should I really focus on based on activity?",
+    "category": "fitness",
+    "subcategory": "nutrition"
+  },
+  {
+    "title": "Healthy Meals for Mixed Households",
+    "content": "I cook for others with different tastes and needs. How do I make meals healthy yet satisfying for everyone?",
+    "category": "fitness",
+    "subcategory": "nutrition"
+  },
+  {
+    "title": "Managing High Coffee Intake",
+    "content": "I drink lots of coffee. Should I reduce it, and how without affecting daily function?",
+    "category": "fitness",
+    "subcategory": "nutrition"
+  },
+  {
+    "title": "Reading Labels Like an Expert",
+    "content": "I feel lost reading labels and marketing claims. How do I identify foods that are truly healthy?",
+    "category": "fitness",
+    "subcategory": "nutrition"
+  },
+  {
+    "title": "Building a System That Makes You Stick",
+    "content": "I set goals but quit repeatedly. How do I create a system that makes me stick with them long-term?",
     "category": "fitness",
     "subcategory": "motivation"
   },
   {
-    "title": "Health Tips",
-    "content": "Provide daily health tips for a better lifestyle.",
+    "title": "Overcoming Shame to Start",
+    "content": "I feel ashamed of my current habits or body and it stops me from starting. How do I break this mental block?",
+    "category": "fitness",
+    "subcategory": "motivation"
+  },
+  {
+    "title": "Keeping Momentum After the Honeymoon Phase",
+    "content": "I'm motivated at first but lose it quickly. What practical strategies help me maintain momentum?",
+    "category": "fitness",
+    "subcategory": "motivation"
+  },
+  {
+    "title": "Finding Direction After a Big Goal",
+    "content": "I achieved a big goal but now feel directionless. How do I set new goals that genuinely excite me?",
+    "category": "fitness",
+    "subcategory": "motivation"
+  },
+  {
+    "title": "Using Social Media Without Hurting Yourself",
+    "content": "Fitness content online makes me feel inadequate. How can I use social media without hurting motivation?",
+    "category": "fitness",
+    "subcategory": "motivation"
+  },
+  {
+    "title": "Bouncing Back After a Bad Week",
+    "content": "I had a bad week and feel completely off track. How do I recover mentally without self-blame?",
+    "category": "fitness",
+    "subcategory": "motivation"
+  },
+  {
+    "title": "Science-Backed Habit Formation",
+    "content": "I start habits enthusiastically but lose interest fast. Are there research-backed ways to make habits stick?",
+    "category": "fitness",
+    "subcategory": "motivation"
+  },
+  {
+    "title": "Finally Fixing Your Morning Routine",
+    "content": "I fail at morning routines even when I try hard. How can I finally succeed without relying on willpower alone?",
+    "category": "fitness",
+    "subcategory": "motivation"
+  },
+  {
+    "title": "Staying Healthy as a Couple",
+    "content": "My partner and I want to improve our health together but our schedules clash. How can we support each other?",
+    "category": "fitness",
+    "subcategory": "motivation"
+  },
+  {
+    "title": "Sustainable Health in Midlife",
+    "content": "I want a sustainable health lifestyle in midlife. How do I build it without burnout or chasing lost time?",
+    "category": "fitness",
+    "subcategory": "motivation"
+  },
+  {
+    "title": "Always Tired Despite Healthy Living",
+    "content": "I feel tired all the time even though I sleep enough and live healthily. What could explain this and where should I start?",
+    "category": "fitness",
+    "subcategory": "health-tips"
+  },
+  {
+    "title": "Why You Get Sick More Than Others",
+    "content": "I get sick often while others seem fine. What habits or hidden issues could be weakening my immune system?",
+    "category": "fitness",
+    "subcategory": "health-tips"
+  },
+  {
+    "title": "Dealing with Recurring Headaches and Pain",
+    "content": "I get recurring headaches or pain. What are the most likely causes and what should I try before seeking medical advice?",
+    "category": "fitness",
+    "subcategory": "health-tips"
+  },
+  {
+    "title": "Reducing Stress When You Can't Remove It",
+    "content": "I live under constant stress. How can I reduce its physical impact even when I can't remove stressors?",
+    "category": "fitness",
+    "subcategory": "health-tips"
+  },
+  {
+    "title": "The One Habit That Changes Everything",
+    "content": "I want one habit that triggers the biggest positive effect on overall health. Which habit is most effective and practical?",
+    "category": "fitness",
+    "subcategory": "health-tips"
+  },
+  {
+    "title": "Fixing Back and Joint Pain at Home",
+    "content": "I have recurring back or joint pain. What routines or posture fixes could make a real difference?",
+    "category": "fitness",
+    "subcategory": "health-tips"
+  },
+  {
+    "title": "Building a Hydration Habit",
+    "content": "I barely drink water and often forget. How does mild dehydration affect health, and how can I build a system that works?",
+    "category": "fitness",
+    "subcategory": "health-tips"
+  },
+  {
+    "title": "Waking at Night and Can't Sleep",
+    "content": "I wake up in the night and can't sleep. What could cause this pattern and how can I fix it naturally?",
+    "category": "fitness",
+    "subcategory": "health-tips"
+  },
+  {
+    "title": "Navigating Cycle-Related Health Changes",
+    "content": "My energy, mood, or symptoms change with my cycle. Is this normal and how can I manage it better?",
+    "category": "fitness",
+    "subcategory": "health-tips"
+  },
+  {
+    "title": "Investing in Your Long-Term Health Now",
+    "content": "I want to proactively protect my long-term health. What actions now will make the biggest difference later?",
     "category": "fitness",
     "subcategory": "health-tips"
   }
