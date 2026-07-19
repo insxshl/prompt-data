@@ -269,14 +269,14 @@
     "category": "photography",
     "subcategory": "creative"
   }, 
-  {
+    {
     "title": "USA stickman",
-    "content": "here is your prompts!! 
+    "content": "here is your prompts!!
 Topic Research
 Suggest 30 viral YouTube video ideas for a faceless psychology channel targeting a USA audience. Include curiosity score, CTR potential, and why each topic could perform well.
 
 Script
-Write an 8-minute(under 1500 words) YouTube script on "[Why Your Brain Loves Procrastination]". Use a strong hook, storytelling, psychology-backed explanations, and a satisfying ending. Write in natural American English.
+Write an 8-minute(under 1500 words) YouTube script on \"[Why Your Brain Loves Procrastination]\". Use a strong hook, storytelling, psychology-backed explanations, and a satisfying ending. Write in natural American English.
 
 Visual Breakdown
 Break this script into scenes. For each sentence, provide:
@@ -286,7 +286,7 @@ Break this script into scenes. For each sentence, provide:
 - Suggested camera movement
 
 Thumbnail
-Give me 10 high-CTR thumbnail concepts and 10 short thumbnail text ideas for this topic same as stickman. 
+Give me 10 high-CTR thumbnail concepts and 10 short thumbnail text ideas for this topic same as stickman.
 
 Title
 Generate 20 clickable YouTube titles under 60 characters for this topic.
@@ -295,5 +295,5 @@ Description & SEO
 Write a YouTube description, timestamps, keywords, and 20 SEO tags for this video..",
     "category": "photography",
     "subcategory": "creative"
-  },
+  }
 ]
